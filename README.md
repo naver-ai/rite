@@ -4,9 +4,8 @@ Python codes to build RITE dataset from [MIMIC-III Clinical Database](https://ph
 
 **Seong-Eun Moon, Yera Choi, Sewon Kim.**
 
-Clova AI Lab Healthcare AI, NAVER Corp.
+AI Lab Healthcare AI, NAVER Cloud
 
-Our implementation is partially based on [this project](https://physionet.org/content/glucose-management-mimic/1.0.1/)
 
 ## Getting Started
 
@@ -66,7 +65,7 @@ python generate_data.py
 
 ## License
 ```
-Copyright 2022-present NAVER Cloud Corp.
+Copyright 2023-present NAVER Cloud Corp.
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
